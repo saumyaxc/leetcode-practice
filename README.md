@@ -138,13 +138,6 @@
 
 ---
 
-## Note on checkboxes
-GitHub only renders `- [ ]` checkboxes as clickable in Issues, Pull
-Requests, and comments — not in a regular file view like this README.
-To "check" one here, edit the file and change `[ ]` to `[x]` for that row.
-If you want truly clickable checkboxes on GitHub itself, consider tracking
-progress in a pinned Issue instead of this file.
-
 ## Notes
 This roadmap follows the [NeetCode 150](https://neetcode.io/roadmap) ordering.
 Each solved problem includes a short README covering: approach, the signal
